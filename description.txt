@@ -1,0 +1,30 @@
+Changelog V0.1.3.1
+	Fixed a bug that when equipping a single piece of armor it would cause the health number to break
+Changelog V0.1.3.0
+	Added new armor set Glass Cannon crafted with the corresponding piece of elegant tuxedo and a amount of crystalized lazers
+	Added the corresponding piece of elegant tuxedo into the pog tuxedo armor set crafting recipe
+	Nerfed terminator of gods's projectile count from 25 to 15
+	Nerfed Terminator of worlds's projectile count from 15 to 8
+	HEAVILY nerfed the pog tuxedo armor set
+	Armor Penetration 2000000000(was) --> 200
+	Damage Boost 32767%(was) --> 350%
+	Max Minions 32767(was) --> 40
+	Life Regen 200(was) --> 25
+	Mana Cost 0%(was) --> 50%
+	Mana Regen 32767(was) --> 10
+	Removed setting the item use time to 1
+Changelog V0.1.2.1
+	Fixed Forge of Gods not dropping the cooresponding item
+Changelog V0.1.2.0
+	Added The Forge of Gods(Crafting Station)
+	Added Another Special Item
+	Added New Ammo Crystalized Lazer (Crafted with 1 Zenith Bar at the Forge of Gods)
+Changelog: V0.1.1.2
+	Added Zenith Bars which is now used to craft most items
+	Zenith Bars are crafted with 10 of any Iron bar, 10 of any Gold tier bar, 10 of any Copper tier bar, 10 Luminite bars, 
+	10 Chlorophyte bars, 10 Titanium tier bars, 10 Oricalcum tier bars, 10 Colbalt tier bars and is crafted at the Adamantite Forge
+	Added Terminator and Juju shortbow + a special item
+	Changed Pog tuxedo armor to now be crafted with Zenith bars
+	Recipes are now 25 bars for Chestplate and 15 for Boots
+	Stonk is now crafted with 1 Zenith Bar
+	Made livid dagger and Brr unobtainable without using cheats TEMPORARRILY
